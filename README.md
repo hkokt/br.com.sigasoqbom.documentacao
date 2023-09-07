@@ -4,6 +4,8 @@ sistema de gestão acadêmico
 
 ## Aluno
 
+### Requisitos funcionais
+
 | codigo | nome                                        |
 | ------ | ------------------------------------------- |
 | RF01   | Refazer matricula                           |
@@ -18,9 +20,13 @@ sistema de gestão acadêmico
 | RF10   | Ver o calendário acadêmico                  |
 | RF11   | Ver disciplinas correntes                   |
 
+### Caso de uso
+
 ![caso de uso aluno](documentacao/casos_de_uso/aluno.jpg)
 
 ## Professor
+
+### Requisitos funcionais
 
 | codigo | nome                                           |
 | ------ | ---------------------------------------------- |
@@ -37,7 +43,11 @@ sistema de gestão acadêmico
 | RF11   | Selecionar fatec                               |
 | RF12   | Selecionar turma                               |
 
+### Caso de uso
+
 ![caso de uso professor](documentacao/casos_de_uso/professor.jpg)
+
+### Requisitos funcionais
 
 | codigo | nome                                       |
 | ------ | ------------------------------------------ |
@@ -46,5 +56,7 @@ sistema de gestão acadêmico
 | RF03   | Inserir curso                              |
 | RF04   | Inserir Disciplina                         |
 | RF05   | Estabelecer relação professor - disciplina |
+
+### Caso de uso
 
 ![caso de uso adm](documentacao/casos_de_uso/adm.jpg)
