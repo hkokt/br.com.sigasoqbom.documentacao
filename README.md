@@ -36,7 +36,6 @@ sistema de gestão acadêmico
 | RF04   | Definir materias                               |
 | RF05   | Gerenciar notas                                |
 | RF06   | Gerenciar faltas                               |
-| RF07   | Gerar relatórios                               |
 | RF08   | Submeter fechamento                            |
 | RF09   | revisao da nota (depois do fechamento de nota) |
 | RF10   | Selecionar fatec                               |
