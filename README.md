@@ -22,7 +22,7 @@ sistema de gestão acadêmico
 
 ### Caso de uso
 
-![caso de uso aluno](documentacao/casos_de_uso/aluno.jpg)
+![caso de uso aluno](documentação/cdu/caso_de_uso_aluno.drawio.png)
 
 ## Professor
 
@@ -45,7 +45,7 @@ sistema de gestão acadêmico
 
 ### Caso de uso
 
-![caso de uso professor](documentacao/casos_de_uso/professor.jpg)
+![caso de uso professor](documentação/cdu/caso_de_uso_professor.drawio.png)
 
 ## Secretaria
 
@@ -61,4 +61,4 @@ sistema de gestão acadêmico
 
 ### Caso de uso
 
-![caso de uso adm](documentacao/casos_de_uso/adm.jpg)
+![caso de uso adm](documentação/cdu/caso_de_uso_adm.drawio.png)
