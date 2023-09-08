@@ -33,15 +33,14 @@ sistema de gestão acadêmico
 | RF01   | Inserção do plano de aula                      |
 | RF02   | Inserção do critério de avaliação              |
 | RF03   | inserção da bibliografia                       |
-| RF04   | Ver clendario junto do plando de ensino        |
-| RF05   | Definir materias                               |
-| RF06   | Gerenciar notas                                |
-| RF07   | Gerenciar faltas                               |
-| RF08   | Gerar relatórios                               |
-| RF09   | Submeter fechamento                            |
-| RF10   | revisao da nota (depois do fechamento de nota) |
-| RF11   | Selecionar fatec                               |
-| RF12   | Selecionar turma                               |
+| RF04   | Definir materias                               |
+| RF05   | Gerenciar notas                                |
+| RF06   | Gerenciar faltas                               |
+| RF07   | Gerar relatórios                               |
+| RF08   | Submeter fechamento                            |
+| RF09   | revisao da nota (depois do fechamento de nota) |
+| RF10   | Selecionar fatec                               |
+| RF11   | Selecionar turma                               |
 
 ### Caso de uso
 
