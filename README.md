@@ -47,6 +47,8 @@ sistema de gestão acadêmico
 
 ![caso de uso professor](documentacao/casos_de_uso/professor.jpg)
 
+## Secretaria
+
 ### Requisitos funcionais
 
 | codigo | nome                                       |
