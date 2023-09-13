@@ -10,15 +10,14 @@ sistema de gestão acadêmico
 | ------ | ------------------------------------------- |
 | RF01   | Refazer matricula                           |
 | RF02   | Ver Histórico                               |
-| RF03   | Ver notas parciais                          |
-| RF04   | Ver faltas parciais                         |
+| RF03   | Ver notas parciais (correntes)              |
+| RF04   | Ver faltas parciais (correntes)             |
 | RF05   | Ver planejamento de aulas                   |
 | RF06   | Solicitar revisão de notas após fechamento  |
 | RF07   | Solicitar revisão de faltas após fechamento |
-| RF08   | Ver horário da aula                         |
-| RF09   | Ver datas de prova                          |
-| RF10   | Ver o calendário acadêmico                  |
-| RF11   | Ver disciplinas correntes                   |
+| RF08   | Ver horário da aula (correntes)             |
+| RF09   | Ver datas de prova (correntes)              |
+| RF10   | Ver disciplinas correntes                   |
 
 ### Caso de uso
 
