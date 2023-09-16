@@ -1,10 +1,11 @@
 # sigaSohQbom2.0
+
 ## integrantess
-Felippe Ramos Marcial Dornellas -
-Huko Nogueira Koketu -
-Luis Gustavo -
-Matheus Della -
-Antonio William -
+Felippe Ramos Marcial Dornellas |
+Huko Nogueira Koketu |
+Luis Gustavo |
+Matheus Della |
+Antonio William |
 
 ## Aluno
 
