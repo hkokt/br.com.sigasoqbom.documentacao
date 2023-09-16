@@ -1,6 +1,8 @@
 # sigaSohQbom2.0
 
-## integrantess
+Sistema de gerencia acadêmico
+
+## Integrantes
 Felippe Ramos Marcial Dornellas |
 Huko Nogueira Koketu |
 Luis Gustavo |
